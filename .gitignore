@@ -1,0 +1,19 @@
+node_modules
+.DS_Store
+dist
+dist-ssr
+# *.local
+yarn.lock
+.sass-cache
+todo
+
+#amplify-do-not-edit-begin
+build/
+dist/
+node_modules/
+.secret-*
+**.sample
+
+
+.vscode/launch.json
+
